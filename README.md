@@ -7,5 +7,5 @@ This repository is build step by step in the tutorial.
 
 It now includes steps for GitHub
 We have created new branch in GitHub.
-Pulled new branch to our local repo.
-Created new branch localy to push to the GitHub.
+Pulled GitHub new branch to our local repo.
+Created new branch locally and push to the GitHub.
