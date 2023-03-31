@@ -9,3 +9,5 @@ It now includes steps for GitHub
 We have created new branch in GitHub.
 Pulled GitHub new branch to our local repo.
 Created new branch locally and push to the GitHub.
+Git has so many commands and options to work with.
+Learning about Git is must for every tech person.
